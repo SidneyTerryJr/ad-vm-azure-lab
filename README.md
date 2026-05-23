@@ -30,7 +30,7 @@ Hands-on Active Directory experience is directly applicable to roles in cloud in
 <img width="1472" height="1240" alt="image" src="https://github.com/user-attachments/assets/9a4f0fc6-4807-426d-b92d-b7378c6b9957" />
 
 
-**Trust boundary summary:**
+## Trust boundary summary:
 
 | Zone | Components | Access |
 |---|---|---|
