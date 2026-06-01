@@ -54,14 +54,13 @@ Hands-on Active Directory experience is directly applicable to roles in cloud in
 
 ## What You Will Need
 
-Before starting this lab you need **two virtual machines** in Azure. Both must be on the same VNet and subnet so they can communicate with each other.
+Before starting this lab you need a ** virtual machines** in Azure. 
 
 | VM | Role | Purpose |
 |---|---|---|
 | adVM | Domain Controller | Runs Active Directory, DNS, and Group Policy |
-| client01 | Client workstation | Joins the domain and tests GPO application |
 
-> **Important:** Create both VMs before starting the lab steps. The client VM settings are listed in Step 1 alongside the DC settings. Do not skip this — you will need it in Step 6.
+> **Important:** Create the VM before starting the lab steps. 
 
 ---
 ## 📐 Architecture
@@ -72,7 +71,7 @@ Before starting this lab you need **two virtual machines** in Azure. Both must b
 ## Step 1 — Provision the Virtual Machine  💻
 
 
-Sign in to [portal.azure.com](https://portal.azure.com) → **Virtual machines** → **Create**.
+Sign in to [portal.azure.com](https://portal.azure.com) → **Virtual machine** → **Create**.
 
 
 
